@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![](https://github-readme-stats.vercel.app/api?username=shivam3025&show_icons=true&hide_border=true)
